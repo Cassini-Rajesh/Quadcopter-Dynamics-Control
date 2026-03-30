@@ -27,9 +27,10 @@ yaw, and altitude control in Simulink.
 
 ## Figures
 
-### Circle Geometry
-![Circle](Joukowski_Circle.png)
-
+### Velocity Plot
+![Velocity vs. Time](Velocity_Time.jpg)
+### Response Plot
+![Amplitude vs Time](Response.png)
 
 ## Report
 [View Full Report](Quadcopter.pdf)
