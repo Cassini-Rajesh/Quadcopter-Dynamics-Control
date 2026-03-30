@@ -1,12 +1,12 @@
 # Quadcopter Dynamics and Control (MATLAB)
 
+## Code
+[View MATLAB Code](your-filename.m)
+
 ## Overview
 Simulated quadcopter 6-DOF nonlinear dynamics using Lagrangian 
 mechanics in MATLAB and designed PID controllers for pitch, roll, 
 yaw, and altitude control in Simulink.
-
-## Code
-[View MATLAB Code](your-filename.m)
 
 ## Tools & Methods
 - MATLAB/Simulink
