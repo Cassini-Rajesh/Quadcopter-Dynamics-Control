@@ -26,7 +26,10 @@ yaw, and altitude control in Simulink.
 - Modeled hover, ascent, and roll conditions
 
 ## Figures
-[View Full Report](Quadcopter.pdf)
+
+### Circle Geometry
+![Circle](Joukowski_Circle.png)
+
 
 ## Report
 [View Full Report](Quadcopter.pdf)
