@@ -28,9 +28,9 @@ yaw, and altitude control in Simulink.
 ## Figures
 
 ### Velocity Plot
-![Velocity vs. Time](Velocity_Time.jpg)
-### Response Plot
-![Amplitude vs Time](Response.png)
+![Velocity vs. Time](Velocity.jpg)
+### Velocity Relative to Body Frame
+![Velocity in Body Frame](Velocity_Body.png)
 
 ## Report
 [View Full Report](Quadcopter.pdf)
