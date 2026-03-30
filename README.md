@@ -26,7 +26,7 @@ yaw, and altitude control in Simulink.
 - Modeled hover, ascent, and roll conditions
 
 ## Figures
-[Add your trajectory and response plots here]
+[View Full Report](Quadcopter.pdf)
 
 ## Report
 [View Full Report](Quadcopter.pdf)
