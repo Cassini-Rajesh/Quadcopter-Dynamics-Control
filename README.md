@@ -1,7 +1,9 @@
 # Quadcopter Dynamics and Control (MATLAB)
 
 ## Code
-[View MATLAB Code](your-filename.m)
+[View Main Code](Project2Main.m)
+[View Quadcopter Code](Motion_ABC.m)
+[View Different Condition Code](Problem2.m)
 
 ## Overview
 Simulated quadcopter 6-DOF nonlinear dynamics using Lagrangian 
