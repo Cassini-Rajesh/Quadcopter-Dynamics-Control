@@ -28,7 +28,7 @@ yaw, and altitude control in Simulink.
 ## Figures
 
 ### Velocity Plot
-![Velocity vs. Time](Velocity.jpg)
+![Velocity vs. Time](Velocity.png)
 ### Velocity Relative to Body Frame
 ![Velocity in Body Frame](Velocity_Body.png)
 
